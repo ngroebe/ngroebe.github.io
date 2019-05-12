@@ -1,0 +1,17 @@
+.container {
+    background-color: #eacc8c;
+    flex-direction: column;
+    width: 175px;
+    border-color: #6b5c3b; 
+    border: ridge 40px; 
+    margin: auto;
+    padding: 20px;
+}
+
+.child {
+    border-color: #6b5c3b; 
+    border: ridge 40px;
+    background-color: aliceblue;
+    width: 100px;
+    margin: auto;
+}
